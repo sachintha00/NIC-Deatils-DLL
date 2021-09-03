@@ -1,0 +1,12 @@
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\bin\Debug\NICDetails.exe.config
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\bin\Debug\NICDetails.exe
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\bin\Debug\NICDetails.pdb
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\bin\Debug\SMDgetNicDetails.dll
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\obj\Debug\NICDetails.csprojAssemblyReference.cache
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\obj\Debug\NICDetails.Form1.resources
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\obj\Debug\NICDetails.Properties.Resources.resources
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\obj\Debug\NICDetails.csproj.GenerateResource.cache
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\obj\Debug\NICDetails.csproj.CoreCompileInputs.cache
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\obj\Debug\NICDetails.csproj.CopyComplete
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\obj\Debug\NICDetails.exe
+E:\C# PROJECTS\gitUpload\NIC-Deatils-DLL\NICDetails\NICDetails\obj\Debug\NICDetails.pdb
