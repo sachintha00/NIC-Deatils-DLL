@@ -15,4 +15,8 @@ as follows
 
 👉Then you need to import this code segment
 
-  using SMDgetNicDetails;
+    using SMDgetNicDetails;
+
+as follows
+
+![Screenshot_2](https://user-images.githubusercontent.com/80079235/131953600-bf2d43bf-e264-49f9-916b-30feefde42e9.png)
