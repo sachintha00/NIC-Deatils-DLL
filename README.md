@@ -12,3 +12,7 @@ You must add this dll to your project before using it.
 as follows
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/80079235/131951991-36dc8f6b-1884-424b-9785-ba0042aa68f8.gif)
+
+👉Then you need to import this code segment
+
+using SMDgetNicDetails;
