@@ -15,4 +15,4 @@ as follows
 
 👉Then you need to import this code segment
 
-using SMDgetNicDetails;
+  using SMDgetNicDetails;
